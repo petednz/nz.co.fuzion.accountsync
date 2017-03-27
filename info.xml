@@ -5,7 +5,7 @@
   <description>Base extension for account synchronisation - you need an advanced class on top</description>
   <license>AGPL</license>
   <urls>
-    <url desc="Main Extension Page">https://github.com/eileenmcnaughton/nz.co.fuzion.accountsync/blob/master/README.md</url>
+    <url desc="Main Extension Page">https://github.com/eileenmcnaughton/nz.co.fuzion.accountsync/blob/master/README</url>
     <url desc="Support">http://forum.civicrm.org</url>
     <url desc="Licensing">http://civicrm.org/licensing</url>
   </urls>
