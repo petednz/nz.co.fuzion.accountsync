@@ -1,7 +1,7 @@
 This extension supports the CiviXero extension by doing the non Xero specific parts. It is a dependency although CiviCRM has no dependency management
 
 IT PROVIDES
-1) tables for storing event sync info - in particular civicrm_account_contact & civicrm_invoice_contact
+1) tables for storing event sync info - in particular civicrm_account_contact & civicrm_account_invoice
 
 2) apis for storing data in these tables
 
